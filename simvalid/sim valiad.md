@@ -1,7 +1,7 @@
 
 # 仿真是基于相似论的基础
 
-![system Sim](./noteImage/SystemSim.png)
+![system Sim](../noteImage/SystemSim.png)
 
 # 仿真可信度的概念
 
@@ -426,7 +426,7 @@ sns.kdeplot(pdbit['connect_time'],cumulative=True)
 
 # 思路和难点
 
-![](./noteImage/网络仿真可信度评估.png)
+![](../noteImage/网络仿真可信度评估.png)
 
 
 
